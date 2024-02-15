@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+
+
+<h1>this is Landing </h1>
+
+
+<div class="image-container"  >
+    <img class="img1" src="{% static 'images/mos2.jpg' %}" height="400px" width="650px">
+</div>
+
+
+ <div class="container">
+        <h1>Properties</h1>
+        <div class="row">
+            {% for property in p %}
+                <div class="col-md-4 mb-4">
+                    <div class="card">
+                        <img src="{{ property.land_photo.url }}" class="card-img-top" alt="Property Photo">
+                        <div class="card-body">
+                            <h5 class="card-title">Owner Name: {{ property.owner_name }}</h5>
+                            <p class="card-text"><strong>Location:</strong> {{ property.location }}</p>
+                            <p class="card-text"><strong>Price:</strong> {{ property.price }}</p>
+                            <p class="card-text"><strong>Description:</strong> {{ property.description }}</p>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+
+
+{% endblock %}
