@@ -1,0 +1,108 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 253rem;
+}.component-1-sxb {
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  padding: 33.1rem 2rem 59rem 2rem;
+  width: 100%;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+
+  .property-1frame-68-Czs {
+    flex-shrink: 0;
+    margin-bottom: 22.9rem;
+    box-sizing: border-box;
+    padding-bottom: 0.85rem;
+    width: 21.1rem;
+    overflow: hidden;
+    position: relative;
+
+    .auto-group-slu7-wSf {
+      background-repeat: no-repeat;
+      background-position: center;
+      background-image: url('REPLACE_IMAGE:67c86c04dbf12d408b241d087d55f3a3fc36106a');
+      margin-bottom: 1.25rem;
+      width: 100%;
+      height: 9.5rem;
+      background-size: 100% 100%;
+    }
+    .area-1000-sqft-UBh {
+      font-weight: 500;
+      line-height: 1.2575;
+      letter-spacing: 0.032rem;
+      color: #000000;
+      font-family: Helvetica Neue, 'Source Sans Pro';
+      white-space: nowrap;
+      display: flex;
+      font-size: 1.6rem;
+    }
+  }
+  .property-1frame-71-bGK {
+    width: 21.1rem;
+    overflow: hidden;
+    position: relative;
+    flex-shrink: 0;
+    margin-left: 46.4rem;
+    box-sizing: border-box;
+    padding-bottom: 0.85rem;
+
+    .auto-group-tepp-81M {
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      background-position: center;
+      margin-bottom: 1.25rem;
+      box-sizing: border-box;
+      height: 9.5rem;
+      padding: 5.4rem 7.8rem 1.1rem 7.8rem;
+      width: 100%;
+      background-image: url('REPLACE_IMAGE:67c86c04dbf12d408b241d087d55f3a3fc36106a');
+
+      .frame-83-DYb {
+        width: 100%;
+        cursor: pointer;
+        line-height: 1.2575;
+        font-family: Helvetica Neue, 'Source Sans Pro';
+        background-color: rgba(255, 255, 255, 0.8000000119);
+        display: flex;
+        text-decoration-line: underline;
+        color: #3f36ea;
+        white-space: nowrap;
+        text-align: right;
+        font-weight: 500;
+        border-radius: 0.4rem;
+        height: 100%;
+        font-size: 1.6rem;
+        letter-spacing: 0.032rem;
+        align-items: center;
+        justify-content: center;
+      }
+    }
+    .area-1000-sqft-EyV {
+      white-space: nowrap;
+      display: flex;
+      font-size: 1.6rem;
+      font-weight: 500;
+      line-height: 1.2575;
+      letter-spacing: 0.032rem;
+      color: #000000;
+      font-family: Helvetica Neue, 'Source Sans Pro';
+    }
+  }
+}

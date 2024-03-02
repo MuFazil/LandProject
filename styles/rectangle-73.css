@@ -1,0 +1,21 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 8.7rem;
+}.rectangle-73-9dH {
+  width: 100%;
+  height: 3.2rem;
+  background-color: #d9d9d9;
+}

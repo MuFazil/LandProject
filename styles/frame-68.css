@@ -1,0 +1,133 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36.3rem;
+}.frame-68-YrT {
+  box-sizing: border-box;
+  padding-right: 1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.1rem #e0e0e0;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.frame-68-YrT .image-5-2Wj {
+  margin-right: 1rem;
+  width: 10rem;
+  height: 18.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-68-YrT .auto-group-trwq-v6K {
+  margin-top: 0.85rem;
+  width: 24.3rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-68-YrT .auto-group-trwq-v6K .auto-group-j1zq-3wd {
+  margin-bottom: 1.1rem;
+  width: 100%;
+  height: 6.5rem;
+  flex-shrink: 0;
+}
+.frame-68-YrT .auto-group-trwq-v6K .auto-group-j1zq-3wd .frame-63-aRm {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.frame-68-YrT .auto-group-trwq-v6K .auto-group-j1zq-3wd .frame-63-aRm .frame-62-8y5 {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  letter-spacing: 0.036rem;
+  color: #000000;
+  font-family: Helvetica Neue, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-68-YrT .auto-group-trwq-v6K .auto-group-j1zq-3wd .frame-63-aRm .frame-61-STy {
+  width: 13.8rem;
+  flex-shrink: 0;
+}
+.frame-68-YrT .auto-group-trwq-v6K .auto-group-j1zq-3wd .frame-63-aRm .frame-61-STy .frame-59-oZR {
+  margin: 0rem 3.72rem 0.1rem 0rem;
+  width: calc(100% - 3.72rem);
+  display: flex;
+  align-items: center;
+}
+.frame-68-YrT .auto-group-trwq-v6K .auto-group-j1zq-3wd .frame-63-aRm .frame-61-STy .frame-59-oZR .item-45-iRV {
+  margin-right: 1rem;
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.399999912;
+  letter-spacing: 0.026rem;
+  color: #4f4f4f;
+  font-family: Helvetica Neue, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-68-YrT .auto-group-trwq-v6K .auto-group-j1zq-3wd .frame-63-aRm .frame-61-STy .frame-59-oZR .group-5-pDd {
+  width: 7.38rem;
+  height: 1.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-68-YrT .auto-group-trwq-v6K .auto-group-j1zq-3wd .frame-63-aRm .frame-61-STy .yeswanthpur-karnataka-Zh1 {
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.399999912;
+  letter-spacing: 0.026rem;
+  color: #4f4f4f;
+  font-family: Helvetica Neue, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-68-YrT .auto-group-trwq-v6K .rs86-lakhs-onwards-c9V {
+  margin-right: 0.1rem;
+  text-align: right;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  letter-spacing: 0.032rem;
+  color: #000000;
+  font-family: Helvetica Neue, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.frame-68-YrT .auto-group-trwq-v6K .rs86-lakhs-onwards-c9V .rs86-lakhs-onwards-c9V-sub-0 {
+}
+.frame-68-YrT .auto-group-trwq-v6K .rs86-lakhs-onwards-c9V .rs86-lakhs-onwards-c9V-sub-1 {
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.032rem;
+  color: #4f4f4f;
+  font-family: Helvetica Neue, 'Source Sans Pro';
+}

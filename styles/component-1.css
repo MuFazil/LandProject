@@ -1,0 +1,104 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 253rem;
+}.component-1-sxb {
+  box-sizing: border-box;
+  padding: 33.1rem 2rem 59rem 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.component-1-sxb .property-1frame-68-Czs {
+  margin-bottom: 22.9rem;
+  box-sizing: border-box;
+  padding-bottom: 0.85rem;
+  width: 21.1rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-sxb .property-1frame-68-Czs .auto-group-slu7-wSf {
+  margin-bottom: 1.25rem;
+  width: 100%;
+  height: 9.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-5-bg-s8s.png');
+}
+.component-1-sxb .property-1frame-68-Czs .area-1000-sqft-UBh {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  letter-spacing: 0.032rem;
+  color: #000000;
+  font-family: Helvetica Neue, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-sxb .property-1frame-71-bGK {
+  margin-left: 46.4rem;
+  box-sizing: border-box;
+  padding-bottom: 0.85rem;
+  width: 21.1rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-sxb .property-1frame-71-bGK .auto-group-tepp-81M {
+  margin-bottom: 1.25rem;
+  box-sizing: border-box;
+  padding: 5.4rem 7.8rem 1.1rem 7.8rem;
+  width: 100%;
+  height: 9.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-5-bg-YUF.png');
+}
+.component-1-sxb .property-1frame-71-bGK .auto-group-tepp-81M .frame-83-DYb {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  text-align: right;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  letter-spacing: 0.032rem;
+  text-decoration-line: underline;
+  color: #3f36ea;
+  font-family: Helvetica Neue, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.8000000119);
+  border-radius: 0.4rem;
+}
+.component-1-sxb .property-1frame-71-bGK .area-1000-sqft-EyV {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  letter-spacing: 0.032rem;
+  color: #000000;
+  font-family: Helvetica Neue, 'Source Sans Pro';
+  white-space: nowrap;
+}

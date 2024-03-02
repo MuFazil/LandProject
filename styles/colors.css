@@ -1,0 +1,61 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 22.2rem;
+}.colors-Vqq {
+  box-sizing: border-box;
+  padding: 6.7rem 6.9rem 4.3rem 5.1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.colors-Vqq .rectangle-1-CET {
+  margin-bottom: 2.6rem;
+  width: 100%;
+  height: 9.5rem;
+  background-color: #3f36ea;
+  flex-shrink: 0;
+}
+.colors-Vqq .rectangle-2-YZD {
+  margin-bottom: 2.6rem;
+  width: 100%;
+  height: 9.5rem;
+  background-color: #dedcff;
+  flex-shrink: 0;
+}
+.colors-Vqq .rectangle-3-5Z9 {
+  margin-bottom: 3.8rem;
+  width: 100%;
+  height: 9.5rem;
+  background-color: #433bff;
+  flex-shrink: 0;
+}
+.colors-Vqq .rectangle-4-qYK {
+  margin-bottom: 2.6rem;
+  width: 100%;
+  height: 9.5rem;
+  background-color: #fbfbfe;
+  flex-shrink: 0;
+}
+.colors-Vqq .rectangle-5-ZUK {
+  width: 100%;
+  height: 9.5rem;
+  background-color: #050315;
+  flex-shrink: 0;
+}

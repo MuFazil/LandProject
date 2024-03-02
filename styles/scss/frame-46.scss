@@ -1,0 +1,46 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 8rem;
+}.frame-46-iTZ {
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  position: relative;
+  align-items: center;
+  display: flex;
+
+  .property-1default-UBq {
+    width: 4rem;
+    height: 4rem;
+    cursor: pointer;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+    margin-bottom: 2rem;
+  }
+  .property-1variant2-QrB {
+    border-radius: 0.8rem;
+    flex-shrink: 0;
+    width: 4rem;
+    height: 4rem;
+    object-fit: contain;
+    vertical-align: top;
+  }
+}

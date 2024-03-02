@@ -1,0 +1,96 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 40.8rem;
+}.filter-3PD {
+  box-sizing: border-box;
+  padding: 3rem 13.4rem 4.7rem 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 2.8rem;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.filter-3PD .property-1default-NAb {
+  width: 6.6rem;
+  height: 77.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.8rem 0 0 0.8rem;
+  flex-shrink: 0;
+}
+.filter-3PD .property-1variant2-4p7 {
+  box-sizing: border-box;
+  padding: 0.1rem 0.1rem 67.318rem 0.1rem;
+  height: 77.8rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #e0e0e0;
+  background-color: #ffffff;
+  border-radius: 0.8rem 0 0 0.8rem;
+  flex-shrink: 0;
+}
+.filter-3PD .property-1variant2-4p7 .home-PbV {
+  margin-bottom: 1.8rem;
+  width: 6.4rem;
+  height: 6.3422rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.filter-3PD .property-1variant2-4p7 .filter-94s {
+  margin-left: 0.0007rem;
+  width: 2.4rem;
+  height: 2.2399rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.filter-3PD .property-1variant3-qCb {
+  box-sizing: border-box;
+  padding: 2.092rem 0.1rem 65.526rem 0.1rem;
+  height: 77.8rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #e0e0e0;
+  background-color: #ffffff;
+  border-radius: 0.8rem 0 0 0.8rem;
+  flex-shrink: 0;
+}
+.filter-3PD .property-1variant3-qCb .home-8hV {
+  margin: 0rem 0.001rem 2rem 0rem;
+  width: 2.4rem;
+  height: 2.3422rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.filter-3PD .property-1variant3-qCb .filter-4r3 {
+  width: 6.4rem;
+  height: 5.8399rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

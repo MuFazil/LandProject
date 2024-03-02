@@ -1,0 +1,35 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 26.6rem;
+}.card-2-ifq {
+  box-sizing: border-box;
+  padding: 6.45rem 2.9rem;
+  width: 100%;
+  height: 32.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.card-2-ifq .name-of-property-rating-price-range-location-F9y {
+  max-width: 13.5rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  letter-spacing: 0.032rem;
+  color: #000000;
+  font-family: Helvetica Neue, 'Source Sans Pro';
+}

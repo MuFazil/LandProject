@@ -25,8 +25,8 @@ app_name="Home"
 
 urlpatterns = [
 
-    path('', views.home, name="home"),
-    path('landing', views.landing, name="landing"),
+    path('', views.homepage, name="homepage"),
     path('detailed_view', views.detailed_view, name="detailed_view"),
+    path('properties', views.properties, name="properties"),
 
 ]
