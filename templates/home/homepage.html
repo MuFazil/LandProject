@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-{% extends 'base.html' %}
+{% comment %} {% extends 'base.html' %} {% endcomment %}
 {% load static %}
 {% block content %}
 
@@ -19,11 +19,15 @@
 </head>
 <body>
 <div class="homepage-before-login-final-3-JkF">
+ 
+ 
   <div class="frame-2-SLf">
+
     <div class="frame-3-wYK">
       <img class="home-dR9" src="{% static './assets/home-V19.png'%}"/>
       <p class="indus-space-9PV">Indus Space</p>
     </div>
+
     <div class="frame-44-GU7">
       <div class="auto-group-2qgo-dZZ">
         <div class="links-xLw">Home</div>
@@ -33,12 +37,16 @@
         <div class="frame-10-r4w">
           <div class="frame-8-nzB">
             <img class="profile-YCf" src="{% static './assets/profile-PPM.png'%}"/>
-            <p class="register-sign-in-TqR">Register / Sign in</p>
+            <a class="register-sign-in-TqR" aria-current="page" href="{% url 'UserAuthentication:register' %}">Register / Sign in</a>
           </div>
         </div>
       </div>
+
     </div>
   </div>
+
+
+
   <div class="frame-13-VXD">
     <div class="image-3-3Yj">
     </div>
